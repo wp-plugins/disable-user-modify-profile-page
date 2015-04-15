@@ -7,11 +7,16 @@ Tested up to: 4.2
 Stable tag: 1.2
 License: Free
 
-Disable any user(except Admins), to access(modify) their profile page.
+Disable any user(except Admins), to access(modify) their profile page. 
 
 == Description ==
+
 1) Under "All Users", individually per user, you can disable the profile page access.
-2) p.s. VIEW other MUST-HAVE PLUGINS : http://codesphpjs.blogspot.com/2014/10/must-have-wordpress-plugins.html 
+2) (P.S.  OTHER MUST-HAVE PLUGINS FOR EVERYONE: http://bitly.com/MWPLUGINS  )
+
+
+
+
 
 p.s. thanks to https://gist.github.com/Giuseppe-Mazzapica/11070063
 
