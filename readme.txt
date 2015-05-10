@@ -11,14 +11,9 @@ Disable any user(except Admins), to access(modify) their profile page.
 
 == Description ==
 
-1) Under "All Users", individually per user, you can disable the profile page access.
-2) (P.S.  OTHER MUST-HAVE PLUGINS FOR EVERYONE: http://bitly.com/MWPLUGINS  )
+ Under "All Users", individually per user, you can disable the profile page access.
 
-
-
-
-
-p.s. thanks to https://gist.github.com/Giuseppe-Mazzapica/11070063
+>  (P.S. Note! This is a <a href="http://codesphpjs.blogspot.com/2014/10/nsp-non-slowing-plugins-for-wordpress.html" target="_blank">Non-Slowing</a> Plugin.  See OTHER MUST-HAVE PLUGINS FOR EVERYONE: http://bitly.com/MWPLUGINS  )
 
 == Installation ==
  
@@ -31,8 +26,7 @@ p.s. thanks to https://gist.github.com/Giuseppe-Mazzapica/11070063
 
 == Changelog ==
 
-
-= 1.0.1 = 
+= 1.1 = 
 
 the first version of the plugin.
 
