@@ -7,6 +7,8 @@ Original Author: ( Based on https://gist.github.com/Giuseppe-Mazzapica/11070063 
 @license free
 Version: 1.1
 */
+if ( ! defined( 'ABSPATH' ) ) exit; //Exit if accessed directly
+
 add_action( 'admin_init', 'stop_access_profile__DUMPD'); function stop_access_profile__DUMPD() {
 	if(!current_user_can( 'create_users')){
 		if (get_option('AllOrInd__DUMPP') == 'all') {	$disabled =true;	}
